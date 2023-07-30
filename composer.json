@@ -8,6 +8,12 @@
         "laravel",
         "php"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/habe90/viber-bot"
+        }
+    ],
     "homepage": "https://github.com/paragraf-lex/viber-bot",
     "license": "MIT",
     "authors": [
